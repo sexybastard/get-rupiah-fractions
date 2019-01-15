@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: App should match snapshoot Initial case 1`] = `
+Array [
+  <div
+    className="main"
+    id="main"
+  >
+    <div
+      className="container"
+      id="container"
+    >
+      <Header
+        title="Get Rupiah Fractions"
+      />
+      <InputNumber
+        setResult={[Function]}
+      />
+      <DisplayResult
+        result=""
+        validateResponse={Object {}}
+      />
+    </div>
+  </div>,
+]
+`;

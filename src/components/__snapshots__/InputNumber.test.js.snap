@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: InputNumber should match snapshoot Initial case 1`] = `
+Array [
+  <div
+    className="input-container"
+    id="input-container"
+  >
+    <input
+      className="input-amount"
+      onChange={[Function]}
+      onKeyPress={[Function]}
+      placeholder="Input amount..."
+      type="text"
+      value=""
+    />
+  </div>,
+]
+`;
+
+exports[`Component: InputNumber should match snapshoot onChange event 1`] = `
+Array [
+  <div
+    className="input-container"
+    id="input-container"
+  >
+    <input
+      className="input-amount"
+      onChange={[Function]}
+      onKeyPress={[Function]}
+      placeholder="Input amount..."
+      type="text"
+      value="1"
+    />
+  </div>,
+]
+`;

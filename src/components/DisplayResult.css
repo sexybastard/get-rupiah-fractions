@@ -1,0 +1,19 @@
+.result-container {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 17px;
+}
+
+.result-container label {
+  font-size: 18;
+  font-weight: bold;
+}
+
+.font-result {
+  color: #333;
+  font-style: italic;
+}
+
+.font-error {
+  color: red;
+}

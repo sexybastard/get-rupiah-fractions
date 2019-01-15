@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component: DisplayResult should match snapshoot Case 1 1`] = `
+Array [
+  <div
+    className="result-container"
+    id="result-container"
+  >
+    <label
+      className="font-error"
+    >
+      Invalid format
+    </label>
+  </div>,
+]
+`;
+
+exports[`Component: DisplayResult should match snapshoot Case 2 1`] = `
+Array [
+  <div
+    className="result-container"
+    id="result-container"
+  >
+    <label
+      className="font-error"
+    >
+      Invalid format
+    </label>
+  </div>,
+]
+`;
