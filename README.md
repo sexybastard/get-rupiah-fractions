@@ -22,7 +22,7 @@ Launches the test runner using Jest.<br>
 
 ## Tech
 
-This app is build using ReactJs
+This app is build using ReactJs, test using Jest and Enzyme.
 
 ## Code Explanations
 
