@@ -22,9 +22,9 @@ Array [
     id="result-container"
   >
     <label
-      className="font-error"
+      className="font-result"
     >
-      Invalid format
+      5x Rp100000, 1xRp50000, left 12
     </label>
   </div>,
 ]

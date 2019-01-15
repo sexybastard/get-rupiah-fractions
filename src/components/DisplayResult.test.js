@@ -15,8 +15,8 @@ describe("Component: DisplayResult should match snapshoot", () => {
   it("Case 2", () => {
     const result = '5x Rp100000, 1xRp50000, left 12'
     const validateResponse = {
-      isValid: false,
-      message: 'Invalid format'
+      isValid: true,
+      message: ''
     }
     const wrapper = shallow(<DisplayResult result={result} validateResponse={validateResponse} />);
     expect(wrapper.getElements()).toMatchSnapshot();
