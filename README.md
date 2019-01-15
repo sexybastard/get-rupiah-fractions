@@ -20,6 +20,10 @@ You will also see any lint errors in the console.
 
 Launches the test runner using Jest.<br>
 
+## Tech
+
+This app is build using ReactJs
+
 ## Code Explanations
 
 This app consists of App.js as the main screen which loads all the components inside of it. The components are:
